@@ -59,7 +59,7 @@ nav a:hover{
 }
 
 .excibidor:hover{
-    background-color: 778da9;
+    background-color: #778da9;
     transform: scale(1.06);
 }
 
@@ -87,4 +87,16 @@ nav a:hover{
     display: flex;
     background-color: black;
     justify-content: space-around;
+}
+
+footer {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+    font-family: "Iansui", cursive;
+}
+
+.pie {
+    display: flex inline;
+    font-family: "Iansui", cursive;
 }
